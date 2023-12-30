@@ -1,0 +1,2 @@
+# newJScript
+my first JavaScript
